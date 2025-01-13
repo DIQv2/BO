@@ -1,0 +1,11 @@
+Stats thread started at 0.258309
+ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-FD1C004F4878337F921B5C85A7A327B8
+         Session CrashGUID >====================================================
+appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Misc\ConfigCacheIni.cpp] [Line: 244] 
+Short config section found while looking for /Script/BuildSettings.BuildSettings
+
+
+
+Windows GetLastError: The handle is invalid. (6)

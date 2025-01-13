@@ -1,0 +1,12 @@
+Stats thread started at 0.253836
+ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-39225CE84041248102DD6080CAEC221C
+         Session CrashGUID >====================================================
+appError called: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Misc\ConfigCacheIni.cpp] [Line: 244] 
+Short config section found while looking for /Script/BuildSettings.BuildSettings
+
+
+
+Windows GetLastError: The handle is invalid. (6)
+Loading VulkanPC ini files took 0.02 seconds
